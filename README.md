@@ -1,6 +1,7 @@
-# Advanced Housed Price Prediction
+# Prodigy Infotech ML Internship Task 1 
 
-## Prodigy Infotech ML Internship Task 1
+## Advanced Housed Price Prediction
+
 
 ### Description:
 
